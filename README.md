@@ -1,4 +1,4 @@
-https://www.kaggle.com/code/mehmetfatihtosun/notebookf660ecf8e9?scriptVersionId=209247968
+https://www.kaggle.com/code/mehmetfatihtosun/indonesia-earthquake-data-analysis
 
 # Earthquake Data Analysis
 
